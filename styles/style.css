@@ -153,7 +153,8 @@ body {
 }
 
 .section-title em{
-	color:#e34e47;
+	color:#cdcdcd;
+	font-style: normal;
 }
 
 .section-title strong img{

@@ -237,13 +237,17 @@ a{
 .container{
 	margin-bottom:20px;
 }
+.container p{
+	color: #515151!important;
+}
+
 .container1 h4{
 	font-size: 16px;
 	margin-bottom: 10px;
 }
 .container1 strong{
 	font-size: 14px;
-	color: #515151;
+	color: #515151!important;
 }
 .container1{
 	font-size: 14px;
@@ -445,7 +449,7 @@ a{
 /*///////*/
 
 .center-button{
-	width:120px;
+	width:121px;
 	text-align:center;
 	/* margin-left:auto!important; */
 	/* margin-right:auto!important; */
@@ -548,6 +552,27 @@ a{
 
 .button-orange{			  background-color:#e67e22;	}
 .button-orange:active{	   background-color:#b76217;	}
+
+.button-black{			  background-color:#0b1621;	}
+.button-black:active{	   background-color:#0b1621;	}
+
+.button-blue1{			  background-color: #0b84fe;	}
+.button-blue1:active{	   background-color:#0b84fe;	}
+
+.button-green{			  background-color: #177c42;	}
+.button-green:active{	   background-color:#177c42;	}
+
+.button-blk{			  background-color: #333;	}
+.button-blk:active{	   background-color:#333;	}
+
+.button-zs{			  background-color: #61267a;	}
+.button-zs:active{	   background-color:#61267a;	}
+
+.button-cs{			  background-color: #b76217;	}
+.button-cs:active{	   background-color:#b76217;	}
+
+.button-hs{			  background-color: #e34e47;	}
+.button-hs:active{	   background-color:#e34e47;	}
 
 
 /*/////////////*/

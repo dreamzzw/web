@@ -101,7 +101,9 @@ body {
 	height: 25px;
 	color: #121313;
 }
-
+.content-header a{
+	font-weight: 850;
+}
 
 .content-header img{
 	height: 16px;
@@ -160,7 +162,7 @@ body {
 }
 
 .section-title em{
-	color:#e34e47;
+	color:#e34e47 !important;
 	font-style: normal;
 }
 

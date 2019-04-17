@@ -97,23 +97,30 @@ body {
 	float:right;
 	margin-top:-50px;
 }
-
 .content-header{
-	margin-left:20px;
-	margin-right:20px;
-	margin-bottom:20px;
+	height: 25px;
+	color: #121313;
 }
 
-.content-logo{
-	background-image:url(../images/misc/logo-dark.png);
-	background-size:75px 16px;
-	background-repeat:no-repeat;
-	display:block;
-	float:left;
-	width:75px;
-	height:16px;
-}
 
+.content-header img{
+	height: 16px;
+	margin-top: 2px;
+	float: left;
+}
+.content-header span{
+	display: inline-block;
+	background-color: #e34e47;
+	height: 16px;
+	width: 35px;
+	margin-top: 2px;
+	border-radius: 3px;
+	margin-left: 8px;
+	color: #FFFFFF;
+	line-height: 16px;
+	text-align: center;
+	font-weight: 900;
+}
 .facebook-content{
 	background-image:url(../images/misc/facebook-color.png);
 	background-size:17px 16px;
@@ -306,7 +313,9 @@ body {
 	margin-right:20px;
 	margin-bottom:20px;
 }
-
+.sidebar-header img{
+	height: 23px;
+}
 .sidebar-logo{
 	background-image:url(../images/misc/logo-white.png);
 	background-size:75px 16px;

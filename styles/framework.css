@@ -237,8 +237,11 @@ a{
 .container{
 	margin-bottom:20px;
 }
-.container p{
-	color: #515151!important;
+.container>a>p{
+	color: #515151;
+}
+.container>a>div>p{
+	color: #515151;
 }
 
 .container1 h4{

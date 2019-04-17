@@ -445,12 +445,12 @@ a{
 /*///////*/
 
 .center-button{
-	width:100px;
+	width:120px;
 	text-align:center;
-	margin-left:auto!important;
-	margin-right:auto!important;
+	/* margin-left:auto!important; */
+	/* margin-right:auto!important; */
 	display:block!important;
-	margin-top:20px;
+	/* margin-top:20px; */
 }
 
 .fullscreen-button{

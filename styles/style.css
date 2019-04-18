@@ -172,38 +172,6 @@ body {
 	margin-top:7px;
 }
 
-
-.services-item em{
-	text-align:center;
-	display:block;
-	color:#e34e47;
-	margin-bottom:10px;
-}
-
-.services-item h4{
-	text-align:center;
-	margin-bottom:0px;
-}
-
-.services-item strong{
-	text-align:center;
-	font-style:normal;
-	font-weight:400;
-	display:block;
-	width:150px;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-.services-item img{
-	width:100px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-bottom:20px;
-}
-
-/*Testimonials*/
-
 .quote-item img{
 	width:60px;
 	float:left;

@@ -1,0 +1,56 @@
+.zzkx{
+  position: relative;
+  height: 35px;
+  width: 100%;
+}
+.zzkx .pic{
+  height: 100%;
+  float: left;
+  width: 73px;
+  display: inline-block;
+}
+.zzkx img{
+  height: 19.5px;
+  margin-top: 0;
+  display: inline-block;
+}
+.zzkx .wzkx{
+  display: inline-block;
+  height: 35px;
+  float: left;
+  width: 300px;
+}
+.zzkx .wzkx span{
+  background-color: #f40;
+  color: #ffffff;
+  border-radius: 3px;
+  margin-left: 12px;
+  margin-right: 8px;
+  font-size: 12px;
+  font-weight: 800px;
+  text-align: center;
+  padding: 0.5px 3px;
+}
+.zzkx .wzkx .wzlb{
+  height: 35px;
+  margin-bottom: 55px;
+  
+}
+.zzkx .wzkx .wzlb a{
+  color: black!important;
+}
+
+.zzkx .wzkx .wzlb:first-child {
+  animation: show 10s linear infinite;
+}
+
+@keyframes show {
+  0% {margin-top:-270px;}
+  5% {margin-top:-180px;}
+  33% {margin-top:-180px;}
+  38% {margin-top:-90px;}
+  66% {margin-top:-90px;}
+  71% {margin-top:0px;}
+  99.999% {margin-top:0px;}
+  100% {margin-top:-270px;}
+}

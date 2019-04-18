@@ -454,11 +454,10 @@ a{
 
 .center-button{
 	width:121px;
+	font-size: 12px;
+	font-weight: 800;
 	text-align:center;
-	/* margin-left:auto!important; */
-	/* margin-right:auto!important; */
 	display:block!important;
-	/* margin-top:20px; */
 }
 
 .fullscreen-button{
@@ -539,23 +538,23 @@ a{
 .button-green{			   background-color:#27ae60;	}
 .button-green:active{		background-color:#177c42;	}
 
-.button-blue{				background-color:#2980b9;	}
-.button-blue:active{		 background-color:#195a84;	}
+.button-blue{				background-color:#F56408;	}
+.button-blue:active{		 background-color:#F56408;	}
 
 .button-magenta{			 background-color:#8e44ad;	}
 .button-magenta:active{	  background-color:#61267a;	}
 
-.button-dark{				background-color:#2c3e50;	}
-.button-dark:active{		 background-color:#0b1621;	}
+.button-dark{				background-color:#8BC731;	}
+.button-dark:active{		 background-color:#8BC731;	}
 
-.button-yellow{			  background-color:#f1c40f;	}
-.button-yellow:active{	   background-color:#c3a321;	}
+.button-yellow{			  background-color:#FFC400;	}
+.button-yellow:active{	   background-color:#FFC400;	}
 
 .button-red{				 background-color:#c0392b;	}
 .button-red:active{		  background-color:#932d23;	}
 
-.button-orange{			  background-color:#e67e22;	}
-.button-orange:active{	   background-color:#b76217;	}
+.button-orange{			  background-color:#00ACF2;	}
+.button-orange:active{	   background-color:#00ACF2;	}
 
 .button-black{			  background-color:#0b1621;	}
 .button-black:active{	   background-color:#0b1621;	}

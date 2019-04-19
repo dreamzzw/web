@@ -245,16 +245,21 @@ a{
 }
 
 .container1 h4{
-	font-size: 16px;
-	margin-bottom: 10px;
+	font-size: 18px;
+	font-family: -apple-system-font, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif;
 }
+
 .container1 strong{
-	font-size: 14px;
-	color: #515151!important;
+	font-size: 16px;
+	font-family: -apple-system-font, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif;
+	color: #e34e47!important;
 }
 .container1{
-	font-size: 14px;
-	line-height: 1.8em;
+	color: rgb(51, 51, 51);
+    font-family: -apple-system-font, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 350;
+	line-height: 1.75em;
 }
 .no-bottom{
 	margin-bottom:0px;

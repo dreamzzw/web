@@ -252,7 +252,7 @@ a{
 .container1 strong{
 	font-size: 16px;
 	font-family: -apple-system-font, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif;
-	color: #e34e47!important;
+	color: rgb(160, 42, 11)!important;
 }
 .container1{
 	color: rgb(51, 51, 51);
@@ -260,6 +260,12 @@ a{
 	font-size: 16px;
 	font-weight: 350;
 	line-height: 1.75em;
+	text-align: justify;
+	letter-spacing: 2px;
+	min-height: 1em;
+	white-space: normal;
+	box-sizing: border-box !important;
+    word-wrap: break-word !important;
 }
 .no-bottom{
 	margin-bottom:0px;

@@ -6,38 +6,39 @@
 .zzkx .pic{
   height: 100%;
   float: left;
-  width: 73px;
+  width: 83px;
   display: inline-block;
 }
 .zzkx img{
-  height: 18.5px;
-  margin-top: 0;
+  height: 16px;
+  margin-top: 2px;
   display: inline-block;
 }
 .zzkx .wzkx{
   display: inline-block;
   height: 35px;
   float: left;
-  width: 300px;
+  width: 290px;
 }
-.zzkx .wzkx span{
-  background-color: #e34e47;
-  color: #ffffff;
-  border-radius: 3px;
-  margin-left: 12px;
-  margin-right: 8px;
-  font-size: 12px;
-  font-weight: 800px;
-  text-align: center;
-  padding: 0.5px 3px;
+.zzkx .wzkx strong{
+  color: #f40;
+  font-size: 16px;
+  font-weight: 800;
+  padding-right: 8px;
 }
 .zzkx .wzkx .wzlb{
   height: 35px;
   margin-bottom: 55px;
-  
 }
 .zzkx .wzkx .wzlb a{
-  color: black!important;
+  font-size: 15px;
+  color: #576b95!important;
+  font-family: 'Lato', sans-serif;
+  font-weight: 350!important;
+  line-height: 1.4em;
+  text-align: justify;
+  letter-spacing: 2px;
+  min-height: 1em;
 }
 
 .zzkx .wzkx .wzlb:first-child {

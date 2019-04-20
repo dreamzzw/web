@@ -6,7 +6,7 @@
 .zzkx .pic{
   height: 100%;
   float: left;
-  width: 83px;
+  width: 78px;
   display: inline-block;
 }
 .zzkx img{
@@ -18,7 +18,7 @@
   display: inline-block;
   height: 35px;
   float: left;
-  width: 290px;
+  width: 295px;
 }
 .zzkx .wzkx strong{
   color: #f40;
@@ -34,7 +34,7 @@
   font-size: 15px;
   color: #576b95!important;
   font-family: 'Lato', sans-serif;
-  font-weight: 350!important;
+  font-weight: 400!important;
   line-height: 1.4em;
   text-align: justify;
   letter-spacing: 2px;

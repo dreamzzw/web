@@ -20,8 +20,8 @@
 }
 .zzkx .wzkx strong{
   color: #f40;
-  font-size: 16px;
-  font-weight: 800;
+  font-size: 14px;
+  font-weight: 600;
   padding-right: 7px;
 }
 .zzkx .wzkx .wzlb{
@@ -34,11 +34,11 @@
   line-height: 200px;
 }
 .zzkx .wzkx .wzlb a{
-  font-size: 16px;
+  font-size: 14px;
   color: #1f1f1f!important;
   font-family: 'Lato', sans-serif;
-  font-weight: 400!important;
-  line-height: 35px;
+  font-weight: 350!important;
+  line-height: 34px;
   margin-left: 70px;
 }
 

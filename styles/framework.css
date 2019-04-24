@@ -248,11 +248,32 @@ a{
 	font-size: 18px;
 	font-family: 'Lato', sans-serif;
 }
+.container1 .tit{
+	height: 35px;
+	border-bottom: 1px solid rgb(160, 42, 11);
+	line-height: 35px;
+	position: relative;
+	color: rgb(160, 42, 11);
+	margin-bottom: 8px;
+	display: inline-block;
+	font-size: 17px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 800;
+}
+.container1 .tit .fg{
+	height: 29px;
+	width: 10px;
+	background-color: rgb(160, 42, 11);
+	display: inline-block;
+	margin-right: 5px;
+	vertical-align: middle;
+	margin-bottom: 3px;
+}
 
 .container1 strong{
 	font-size: 16px;
 	font-family: 'Lato', sans-serif;
-	color: rgb(160, 42, 11)!important;
+	color: rgb(6, 150, 8)!important;
 }
 .container1{
 	color: rgb(51, 51, 51);
@@ -469,7 +490,9 @@ a{
 	font-weight: 800;
 	text-align:center;
 	display:block!important;
+	border-radius: 3px;
 }
+
 .fullscreen-button{
 	width:100%;
 	display:block;

@@ -250,7 +250,7 @@ a{
 }
 .container1 .tit{
 	height: 35px;
-	border-bottom: 1px solid rgb(160, 42, 11);
+	/* border-bottom: 1px solid rgb(160, 42, 11); */
 	line-height: 35px;
 	position: relative;
 	color: rgb(160, 42, 11);
@@ -260,7 +260,7 @@ a{
 	font-family: 'Lato', sans-serif;
 	font-weight: 800;
 }
-.container1 .tit .fg{
+/* .container1 .tit .fg{
 	height: 29px;
 	width: 10px;
 	background-color: rgb(160, 42, 11);
@@ -268,12 +268,17 @@ a{
 	margin-right: 5px;
 	vertical-align: middle;
 	margin-bottom: 3px;
+} */
+.container1 span{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 800;
+	color: #13227a;
 }
-
 .container1 strong{
 	font-size: 16px;
 	font-family: 'Lato', sans-serif;
-	color: rgb(6, 150, 8)!important;
+	color: black!important;
 }
 .container1{
 	color: rgb(51, 51, 51);
